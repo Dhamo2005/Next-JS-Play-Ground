@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Header from '../comoponents/appbar'
+
 function Home() {
   return (
     <div>
@@ -8,7 +8,7 @@ function Home() {
         <meta name="description" content="Your desired choice" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-        <Header />
+      
       <main>
         Damo Softwares 
       </main>
